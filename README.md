@@ -3,7 +3,7 @@ proj1
 
 Game of Life
 
-http://gameoflife-dancepeda93.rhcloud.com
+download to test
 
 Highlights:
 
